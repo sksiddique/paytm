@@ -1,0 +1,390 @@
+/* Start navbar css  */
+*{
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar{
+    padding: 1.8%;
+}
+.navbar a{
+    text-decoration: none;
+    font-size: 17px;
+    color: black;
+    margin-left: 5%;
+    vertical-align: middle;
+    font-weight: bold;
+}
+.logo{
+    margin: 0% !important;
+}
+#signin{
+    background-color: #00baf2;
+    color: white;
+    border-radius: 25px;
+    padding: 1%;
+    margin-left: 1%;
+    border: none;
+    width: 10%;
+    font-weight: bold;
+    font-size: 18px;
+}
+#signin:hover{
+    background-color: #2b54a6;
+}
+/* Wallet section */
+.wallet{
+    background-color: #f6f6f6;
+    text-align: center;
+    padding: 1%;
+}
+/* End wallet css */
+/* section 2 */
+.sec2{
+    display: flex;
+    justify-content: space-between;
+    padding:5% 0% 5% 5%;
+    margin-top: 2%;
+}
+.UPI{
+    margin-left: 3%;
+}
+.UPI p{
+    font-size: 24px;
+    font-weight: normal;
+    margin-left: 3%;
+}
+#app{
+    border:1px solid black;
+    width:42%;
+    border-radius: 23px;
+    padding: 2%;
+    background-color: black;
+    color: white;
+    font-size: 17px;
+    margin-left: 4%;
+    margin-top: 6%;
+}
+#app:hover{
+    background-color: white;
+    color: black;
+}
+#app i{
+    margin:0% 2%;
+}
+.one{
+    margin-top: 5%;
+    font-size: 60px;
+}
+.two{
+    font-size: 60px;
+    margin-top: 5%;
+}
+p{
+    margin-top: 5%;
+    font-weight: bold;
+}
+/* end section2 css */ 
+/* section3 css */
+.sec3{
+    text-align: center;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    background-color: #00adf2;
+}
+.head2{
+    padding-top: 4%;
+    padding-left: 7%;
+    text-align: left;
+    font-size: 35px;
+    color: white;
+}
+.div3{
+    display: flex;
+    justify-content: space-between;
+    padding: 6%;
+    margin-left: 4%;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    line-height: 30px;
+    font-family: 'Poppins', sans-serif;;
+}
+.div3 a{
+    text-decoration: none;
+    color: white;
+}
+/* end of section 3 */
+/* start of section 4 */
+.sec4{
+    text-align: center;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    background-color:#0f4a8a;
+}
+.head3 {
+    padding-top: 4%;
+    padding-left: 7%;
+    text-align: left;
+    font-size: 35px;
+    color: white;
+}
+.div4 {
+    display: flex;
+    justify-content: space-between;
+    padding: 6%;
+    margin-left: 4%;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    line-height: 30px;
+    font-family: 'Poppins', sans-serif;;
+}
+.div4 a{
+    text-decoration: none;
+    color: white;
+}
+.sec{
+    background-color: rgba(239,239,239,0.6);
+    padding:4% 12%;
+}
+#head4{
+    margin-top: 8%;
+    margin-left: 10%;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 5%;
+}
+.sec5{
+    display:flex;
+    justify-content: center;
+    border: none;
+    padding-top: 5%;
+    border-radius:20px;
+}
+#sec1id{
+    font-size: 40px;
+}
+#sec5id{
+    font-size: 20px;
+}
+#appp{
+    border:1px solid black;
+    width:69%;
+    border-radius: 23px;
+    padding:2%;
+    background-color: black;
+    color:white;
+    margin-left: 4%;
+    margin-top: 3%;
+    cursor: pointer;
+}
+#appp:hover{
+background-color: white;
+color:black;
+}
+#appp i{
+    margin:0% 2%;
+}
+.i19{
+    padding-left: 10%;
+    padding-bottom: 5%;
+}
+/* section 8 css */
+.sec8{
+    display: flex;
+    padding-top: 0%;
+    margin-top: 5%;
+    justify-content: space-between;
+}
+.inner8{
+    width: 40%;
+    padding:3%;
+    background-color: white;
+    border-radius: 20px;
+}
+.i20{
+    margin-right: 7%;
+    margin: bottom 0%;
+}
+.section15{
+    padding-top: 10%;
+    border: none;
+    background-image: url(./images/33.png);
+    display: flex;
+    padding-left: 10%;
+}
+.img31{
+    padding-right: 10%;
+    justify-content: center;
+    margin-bottom: 9%;
+}
+#app5{
+    border:none;
+    width:26%;
+    border-radius: 23px;
+    padding: 3%;
+    background-color: #002970;
+    color: white;
+    font-size: 17px;
+    margin-left: 4%;
+    margin-top: 1%;
+    font-weight:bold;
+    font-family: sans-serif;
+    cursor: pointer;
+}
+#app5:hover{
+    background-color:#00adf2;
+    color: white;
+}
+.h11{
+    padding-top: 5%;
+    padding-left: 10%;
+}
+.sec20{
+    display:flex;
+    justify-content: center;
+}
+.sec20div1{
+    padding-top: 5%;
+    padding-left: 10%;
+}
+.sec20div2,.sec20div3,.sec20div4{
+    padding-top: 5%;
+}
+/* end section7 of css */
+#app6{
+    border:none;
+    width:26%;
+    border-radius: 23px;
+    padding: 3%;
+    background-color: #002970;
+    color: white;
+    font-size: 17px;
+    margin-left: 4%;
+    margin-top: 5%;
+    font-weight:bold;
+    font-family: sans-serif;
+    cursor: pointer;
+}
+#app6:hover{
+    background-color:#00adf2;
+    color: white;
+}
+#sec12{
+    background-color: #ffffff;
+    padding: 4% 12%;
+    display: flex;
+    justify-content: center;
+}
+.sec35div2{
+    padding-left:10%;
+    padding-bottom:15%;
+    width: 50%;
+}
+.sec2id{
+    font-weight: bold;
+    margin-top: 48px;
+    width:390px;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+#app8{
+    border:none;
+    width:26%;
+    border-radius: 23px;
+    padding: 3%;
+    background-color: #002970;
+    color: white;
+    font-size: 17px;
+    margin-left: 4%;
+    margin-top: 5%;
+    font-weight:bold;
+    font-family: sans-serif;
+    cursor: pointer;
+}
+#app8:hover{
+    background-color:#00adf2;
+    color: white;
+}
+#sec12{
+    background-color:#ffffff;
+}
+.sec9{
+    display:flex;
+    align-content: center;
+    border: none;
+    padding-top: 15%;
+    border-radius:20px;
+}
+#sec2id{
+    font-size: 40px;
+}
+#sec5id{
+    font-size: 20px;
+}
+#sec12p{
+    padding-top: 5%;
+}
+#app7{
+    border:none;
+    width:26%;
+    border-radius: 23px;
+    padding: 3%;
+    background-color: #002970;
+    color: white;
+    font-size: 17px;
+    margin-left: 4%;
+    margin-top: 5%;
+    font-weight:bold;
+    font-family: sans-serif;
+    cursor: pointer;
+}
+#app7:hover{
+    background-color:#00adf2;
+    color: white;
+}
+.sec21{
+    padding:15% 10% 3% 10%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5%;
+}
+#sec21div1{
+    padding-left: 0%;
+    background-color: white;
+    color: black;
+}
+.sec21 div{
+    background-color: #00baf2;
+    margin:0% 1%;
+    text-align: center;
+    color: white;
+    border-radius: 8%;
+}
+.sec21 img{
+    margin-top: 4%;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 2%;
+    width: 80%;
+}
+.sec21 h1{
+    opacity: 100%;
+}
+.sec23{
+    display: flex;
+    padding: 4% 10%;
+    background-color:rgba(239,239, 239,0.6) ;
+}
+.sec23 h1{
+    width:20%;
+}
+#sec23div1{
+    margin-left: 40%;
+    width:20%;
+}
+#sec23div1 a{
+    margin-right: 10%;
+}
